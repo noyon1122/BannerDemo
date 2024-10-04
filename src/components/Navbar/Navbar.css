@@ -1,0 +1,32 @@
+
+
+.navbar_container{
+    display: flex;
+    justify-content: space-between;
+    margin:10px 50px;
+    align-items: center;
+    justify-items: center;
+   
+    
+}
+.logo{
+    margin-top: 5px;
+}
+.button{
+  padding: 4px 20px;
+  background-color: red;
+  border-radius: 2px;
+  font-weight: bold;
+  border-style: none;
+}
+.ul_list{
+    display:flex;
+    gap: 10px;
+    list-style: none;
+}
+.ul_list li {
+    padding: 4px 6px;
+    background-color: rgb(250, 248, 250);
+    border-radius: 5px;
+    font-weight: bold;
+}

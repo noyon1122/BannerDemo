@@ -1,0 +1,45 @@
+.banner_container{
+  display: flex;
+  justify-content: space-between;
+  margin:0px 50px;
+  align-items: center;
+  justify-items: center;
+  gap: 20px;
+}
+.text_container{
+    text-transform: uppercase;
+    margin-right: 20px;
+    letter-spacing: -7px;
+}
+.feet_text{
+    font-size:100px;
+    font-weight:bold;
+    
+}
+.button{
+    padding: 4px 20px;
+    background-color: red;
+    border-radius: 2px;
+    font-weight: bold;
+    border-style: none;
+    margin-right:20px;
+    margin-top: 10px;
+
+  }
+  .category{
+    padding: 4px 20px;
+    border-radius: 2px;
+    font-weight: bold;
+    border:1px solid,
+    
+
+}
+.brand{
+   margin-right: 10px;
+}
+.banner_container h5{
+    margin: 5px 0;
+}
+.para{
+    font-weight: bold;
+}
